@@ -1,0 +1,7 @@
+name: MrCrates
+version: 1.0
+author: MrBoolean
+main: me.mrboolean.crates.Main
+depend: [WorldEdit, WorldGuard]
+commands:
+    givecrate:

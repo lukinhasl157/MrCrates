@@ -1,0 +1,8 @@
+#prefixo do plugin
+prefix: '&d[&5MrCrates&d]&f'
+
+#mundos que não serão permitidos ganhar caixas
+#recomendo adicionar o nome do mundo dos terrenos na lista
+mundos:
+  - 'test'
+  - 'test2'
