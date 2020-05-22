@@ -18,7 +18,6 @@ import listeners.BlockPlace;
 import listeners.PlayerInteractCrate;
 
 public class Main extends JavaPlugin {
-	public static final Map<String, Inventory> inventories = new HashMap<String, Inventory>();
 	private final ConsoleCommandSender console = Bukkit.getConsoleSender();
 	private static WorldGuardPlugin wg;
 	public static WorldEditPlugin we;
